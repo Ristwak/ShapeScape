@@ -24,8 +24,8 @@ ShapeScape is ideal for:
 
 | Action               | Control                         |
 |----------------------|----------------------------------|
-| Move forward         | Left-hand thumbstick             |
-| Move backward        | Right-hand thumbstick            |
+| Move forward         | Left-hand thumb                  |
+| Move backward        | Right-hand thumb                 |
 | Grab & Place Shapes  | VR hand interaction              |
 
 ## 🕒 Time Mechanics
